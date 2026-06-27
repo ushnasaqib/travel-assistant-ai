@@ -148,7 +148,7 @@ What's the weather like in Bangkok right now?
 I'm flying to Japan from 2025-10-01 to 2025-10-15. How long is the trip?
 Convert 2000 GBP to JPY.
 What are the top attractions in Kyoto?
-Do I need a visa to visit Thailand as a Pakistani national?
+Do I need a visa to visit Thailand?
 Based on all the above, give me a summary travel brief for my Japan trip.
 ```
 
